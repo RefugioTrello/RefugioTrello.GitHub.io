@@ -9,6 +9,10 @@ body{
     text-align: center ;
 }
 
+.row {
+  margin: 15px;
+}
+
 nav{
     background-color: aquamarine;
     
