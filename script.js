@@ -14,3 +14,7 @@ function Kala() {
 function Eros(){
   alert("Eros Tamaño: Grande. Es un pastor belga con mucha energia. Le encanta jugar con los seres humanos y no es nada agresivo.");
 }
+
+function Lavinia(){
+  alert("Lavinia Tamaño: Mediana. Es una galguita muy maja y feliz. Le encanta pedir cariño de los seres humanos y el resto de perros le causan indiferencia.");
+}
