@@ -10,3 +10,7 @@ function dafne() {
 function Kala() {
   alert("Kala Tamaño: Grande. Kala es la bondad perrificada. Es super tranquila y le encanta pasear. Su hobby favorito es tumbarse con los rayos de sol en la cara. No es nada agresiva con otros perros y es super obediente y respetuosa.");
 }  
+
+function Eros(){
+  alert("Eros Tamaño: Grande. Es un pastor belga con mucha energia. Le encanta jugar con los seres humanos y no es nada agresivo.");
+}
