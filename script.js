@@ -22,3 +22,7 @@ function Lavinia(){
 function Lewis(){
   alert("Lewis Tamaño: Mediana. Es una perrita pastora belga abandonada atada con una cadena. Es super cariñosa y le encanta jugar con las personas. Nunca ladra ni es agresiva ni con los humanos ni con otros perritos.");
 }
+
+function Mela(){
+  alert("Mela Tamaño: Pequeña. Mela aparecio abandonada y es super simpatica. Le encanta estar rodeada de humanos y otros perritos. No es agresiva y esta deseando encontrar a una familia.");
+}
