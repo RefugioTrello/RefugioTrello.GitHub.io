@@ -18,3 +18,7 @@ function Eros(){
 function Lavinia(){
   alert("Lavinia Tamaño: Mediana. Es una galguita muy maja y feliz. Le encanta pedir cariño de los seres humanos y el resto de perros le causan indiferencia.");
 }
+
+function Lewis(){
+  alert("Lewis Tamaño: Mediana. Es una perrita pastora belga abandonada atada con una cadena. Es super cariñosa y le encanta jugar con las personas. Nunca ladra ni es agresiva ni con los humanos ni con otros perritos.");
+}
